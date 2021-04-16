@@ -1,3 +1,5 @@
+![basic-cs-course-feature](./img/basic-cs-course-feature.png)
+
 # 未経験から始めるC#入門
 C#をまったくの未経験から学習する講座で作成したサンプルソースをダウンロードできるレポジトリになります。連載元のウェブページは「[未経験から始めるC#入門](https://hirofurukawa.com/category/cs/cd-first-step/)」になります。
 
